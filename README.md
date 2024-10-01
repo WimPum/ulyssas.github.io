@@ -1,2 +1,2 @@
-# WimPum.github.io
+# wimpum.github.io
 Homepage
